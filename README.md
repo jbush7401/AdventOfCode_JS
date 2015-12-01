@@ -7,4 +7,4 @@ http://adventofcode.com/
 JSFiddles of the solutions:
 
 Day 1:
-http://jsfiddle.net/08ejjhcu/2/
+http://jsfiddle.net/08ejjhcu/3/
