@@ -8,3 +8,6 @@ JSFiddles of the solutions:
 
 Day 1:
 http://jsfiddle.net/08ejjhcu/4/
+
+Day 2:
+https://jsfiddle.net/wngcgcvx/1/
