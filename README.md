@@ -13,4 +13,4 @@ Day 2:
 http://jsfiddle.net/wngcgcvx/1/
 
 Day 3:
-http://jsfiddle.net/x0jur9L8/
+http://jsfiddle.net/x0jur9L8/1/
