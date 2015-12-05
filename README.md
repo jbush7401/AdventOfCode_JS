@@ -14,3 +14,6 @@ http://jsfiddle.net/wngcgcvx/1/
 
 Day 3:
 http://jsfiddle.net/x0jur9L8/
+
+Day4:
+Takes too long to run in jsfiddle.
