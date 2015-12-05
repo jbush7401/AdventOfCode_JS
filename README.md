@@ -15,6 +15,5 @@ http://jsfiddle.net/wngcgcvx/1/
 Day 3:
 http://jsfiddle.net/x0jur9L8/
 
-Day4(Takes a couple minutes to run):
-
+Day4:
 http://jsfiddle.net/jnsj4vvq/3/
