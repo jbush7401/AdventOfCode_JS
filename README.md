@@ -20,3 +20,6 @@ http://jsfiddle.net/jnsj4vvq/3/
 
 Day5:
 http://jsfiddle.net/amcjdc2z/
+
+Day6:
+http://jsfiddle.net/84gnn699/1/
