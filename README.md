@@ -15,11 +15,14 @@ http://jsfiddle.net/wngcgcvx/1/
 Day 3:
 http://jsfiddle.net/x0jur9L8/
 
-Day4:
+Day 4:
 http://jsfiddle.net/jnsj4vvq/3/
 
-Day5:
+Day 5:
 http://jsfiddle.net/amcjdc2z/
 
-Day6:
+Day 6:
 http://jsfiddle.net/84gnn699/1/
+
+Day 7:
+http://jsfiddle.net/o0qa73ud/5/
