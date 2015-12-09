@@ -26,3 +26,6 @@ http://jsfiddle.net/84gnn699/1/
 
 Day 7:
 http://jsfiddle.net/o0qa73ud/8/
+
+Day 8:
+https://jsfiddle.net/hnwr49nv/
